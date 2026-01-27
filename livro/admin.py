@@ -4,3 +4,4 @@ from .models import Livro
 # @: decorador, consome outra função e modifica essa função (personalizar área administrativa)
 
 admin.site.register(Livro)
+
